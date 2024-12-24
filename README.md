@@ -50,6 +50,6 @@ Follow the prompts to:
 ---
 
 ## Acknowledgments
-Salesforce BLIP Model
-Hugging Face Transformers
+- Salesforce BLIP Model
+- Hugging Face Transformers
 
