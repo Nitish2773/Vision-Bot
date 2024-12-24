@@ -19,6 +19,8 @@ Vision Bot is an AI-powered tool that combines computer vision and natural langu
    cd vision-bot
 
 2. pip install opencv-python transformers requests pillow torch
+   
+---
 
 ## Usage
 
@@ -30,18 +32,22 @@ Follow the prompts to:
 - Capture an image using your webcam.
 - Type a question about the captured image.
 - Receive an AI-generated answer.
+  
+---
 
 ## Example
 
-Question: "What object is in the image?"
-Answer: "A red car."
+- Question: "What object is in the image?"
+- Answer: "A red car."
 
+---
 
 ## Requirements
-Python 3.8 or higher
-Webcam-enabled system
-Libraries: OpenCV, Transformers, Torch, Pillow
+- Python 3.8 or higher
+- Webcam-enabled system
+- Libraries: OpenCV, Transformers, Torch, Pillow
 
+---
 
 ## Acknowledgments
 Salesforce BLIP Model
