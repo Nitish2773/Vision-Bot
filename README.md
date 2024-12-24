@@ -1,3 +1,6 @@
+# Published At 
+https://app.readytensor.ai/publications/UUYpS17iTiK7
+
 # Vision Bot: AI-Powered Visual Question Answering Tool
 
 Vision Bot is an AI-powered tool that combines computer vision and natural language processing to dynamically answer questions about images captured from your webcam. It uses the BLIP model from Salesforce to perform visual question answering.
